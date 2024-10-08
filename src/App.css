@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bar:hover .amount {
+    visibility: visible;
+}
+
+.mon {
+    height: 50px;
+}
+
+.tue {
+    height: 100px;
+}
+
+.wed {
+    height: 150px;
+}
+
+.thu {
+    height: 90px;
+}
+
+.fri {
+    height: 70px;
+}
+
+.sat {
+    height: 130px;
+}
+
+.sun {
+    height: 80px;
+}
